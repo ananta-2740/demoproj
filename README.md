@@ -1,0 +1,2 @@
+# demoproj
+How git works
